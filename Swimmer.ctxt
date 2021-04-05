@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Swimmer
+comment0.text=\r\n\ \ Mini-Lab\ \:\ Class\ Implementation\ &\ ArrayList\ Loops<br>\r\n\ \ To\ create\ instance\ variables,\ constructor,\ and\ various\ "getter"\ methods.\r\n\r\n\ \ A\ more\ detailed\ description\ goes\ here,\ if\ necessary.\r\n\ \ <br>\ <br>\r\n\ \ Created\:\ <br>\r\n\ \ \ \ \ 20\ April\ 2018,\ Maria\ Katrantzi<br>\r\n\ \ \ \ \ With\ assistance\ from\:\ TA,\ Professor\ Cutter<br>\r\n\ \ Modifications\:\ <br>\r\n\r\n\ \ @author\ Maria\ Katrantzi\ [with\ assistance\ from\ TA,\ Professor\ Cutter]\r\n\ \ @version\ 20\ April\ 2018\r\n
+comment1.params=racenumber\ athletename\ team\ finishtime
+comment1.target=Swimmer(int,\ java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructs\ a\ new\ object\ of\ this\ class.\r\n\ \r\n\ \ \ \ \ \ @param\ \ \ racenumber\ \ \ \ \ the\ race\ number\ of\ the\ swimmer\ \r\n\ \ \ \ \ \ @param\ \ \ athletename\ \ \ \ the\ name\ of\ the\ swimmer\ \r\n\ \ \ \ \ \ @param\ \ \ team\ \ \ \ \ \ \ \ \ \ \ the\ team\ of\ the\ swimmer\ \r\n\ \ \ \ \ \ @param\ \ \ finishtime\ \ \ \ \ the\ finish\ time\ of\ the\ swimmer\ \r\n\r\n
+comment2.params=
+comment2.target=int\ getRaceNumber()
+comment2.text=\r\n\ Returns\ the\ race\ number\ of\ the\ swimmer.\r\n\ \r\n\ \ \ \ \ \ @return\ race\ number\ of\ the\ swimmer\r\n
+comment3.params=
+comment3.target=java.lang.String\ getAthleteName()
+comment3.text=\r\n\ Returns\ the\ name\ of\ the\ swimmer.\r\n\ \r\n\ \ \ \ \ \ @return\ the\ name\ of\ the\ swimmer\r\n
+comment4.params=
+comment4.target=java.lang.String\ getTeam()
+comment4.text=\r\n\ Returns\ the\ name\ of\ the\ team\ that\ the\ swimmer\ is\ member\ of.\r\n\ \r\n\ \ \ \ \ \ @return\ the\ team\ of\ the\ swimmer\r\n
+comment5.params=
+comment5.target=int\ getFinishTime()
+comment5.text=\r\n\ Returns\ the\ time\ that\ the\ swimmer\ needed\ to\ finish\ the\ race.\r\n\ \r\n\ \ \ \ \ \ @return\ the\ finish\ time\ of\ the\ swimmer\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ Returns\ the\ race\ number,\ name,\ team,\ and\ finish\ time\ of\ the\ swimmer.\r\n\ \r\n\ \ \ \ \ \ @return\ the\ race\ number,\ name,\ team,\ and\ finish\ time\ of\ the\ swimmer\r\n
+numComments=7

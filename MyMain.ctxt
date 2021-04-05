@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MyMain
+comment0.text=\r\n\ \ Mini-Lab\:\ Class\ Implementation\ &\ ArrayList\ Loops<br>\r\n\ \ The\ RaceApp\ class\ provides\ a\ main\ method\r\n\ \ for\ a\ program\ that\ constructs\ objects\r\n\ \ from\ various\ classes.\ \r\n\r\n\ \ A\ more\ detailed\ description\ goes\ here,\ if\ necessary.\r\n\ \ <br>\ <br>\r\n\ \ Created\:\ <br>\r\n\ \ \ \ 20\ April\ 2018,\ Maria\ Katrantzi<br>\r\n\ \ \ \ With\ assistance\ from\:\ TA,\ Professor\ Cutter<br>\r\n\ \ Modifications\:\ <br>\r\n\ \ \ \ \ 23\ April\ 2018,\ Maria\ Katrantzi,\ to\ create\ objects\r\n\ \ \ \ \ and\ print\ out\ specific\ statements<br>\r\n\ \ \ \ \ 25\ April\ 2018,\ Maria\ Katrantzi,\ to\ create\ objects\r\n\ \ \ \ \ and\ print\ out\ specific\ statements<br>\r\n\ \ \ \ \ \r\n\ \ @author\ Maria\ Katrantzi\ [with\ assistance\ from\ TA,\ Professor\ Cutter]\r\n\ \ @version\ 25\ April\ 2018\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ \ The\ main\ function\ initiates\ execution\ of\ this\ program.\r\n\ \ \ \ @param\ \ \ \ String[]\ args\ not\ used\ in\ this\ program\r\n
+numComments=2

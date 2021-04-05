@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Olympics
+comment0.text=\r\n\ \ Mini-Lab\:\ Class\ Implementation\ &\ ArrayList\ Loops<br>\r\n\ \ To\ create\ instance\ variables,\ constructor,\ and\ various\ "getter"\ methods.\r\n\r\n\ \ A\ more\ detailed\ description\ goes\ here,\ if\ necessary.\r\n\ \ <br>\ <br>\r\n\ \ Created\:\ <br>\r\n\ \ \ \ \ 23\ April\ 2018,\ Maria\ Katrantzi<br>\r\n\ \ \ \ \ With\ assistance\ from\:\ TA,\ Professor\ Cutter<br>\r\n\ \ Modifications\:\ <br>\r\n\ \ \ \ \ \ 25\ April\ 2018,\ Maria\ Katrantzi,\ to\ add\ a\ method<br>\r\n\r\n\ \ @author\ Maria\ Katrantzi\ [with\ assistance\ from\ TA]\r\n\ \ @version\ 25\ April\ 2018\r\n
+comment1.params=
+comment1.target=Olympics()
+comment1.text=\r\n\ Constructs\ a\ new\ object\ of\ this\ class.\r\n\ \r\n
+comment2.params=sw
+comment2.target=void\ add(Swimmer)
+comment2.text=\r\n\ Adds\ an\ object\ from\ the\ Swimmmer\ Class\ to\ list.\r\n\ \r\n\ \ \ \ \ \ @param\ object\ of\ class\ Swimmer\r\n
+comment3.params=
+comment3.target=void\ printAll()
+comment3.text=\r\n\ Prints\ all\ Swimmer\ items.\r\n\ \ \ \ \ \ \r\n
+comment4.params=
+comment4.target=double\ getAvgFinishTime()
+comment4.text=\r\n\ Returns\ the\ average\ Finish\ Time\ of\ all\ Swimmers.\r\n\r\n\ \ \ \ \ \ @return\ average\ Finish\ Time\ of\ all\ Swimmers\r\n
+comment5.params=swimmername
+comment5.target=java.lang.String\ getSwimmerTeam(java.lang.String)
+comment5.text=\r\n\ Returns\ the\ team\ of\ a\ given\ Swimmer\ or\ a\ string\ \r\n\ if\ the\ Swimmer\ item\ is\ not\ identified.\r\n\ \r\n\ \ \ \ \ \ @return\ the\ team\ of\ a\ given\ Swimmer\ or\ a\ string\ \r\n\ \ \ \ \ \ if\ the\ Swimmer\ item\ is\ not\ identified\r\n
+comment6.params=finishtime
+comment6.target=java.util.ArrayList\ swimmersWithTheSameFinishTime(int)
+comment6.text=\r\n\ \ Returns\ a\ list\ with\ the\ full\ record\ of\ the\ Swimmers\ with\r\n\ \ the\ same\ finish\ time.\r\n\ \r\n\ \ \ \ \ \ @return\ a\ list\ with\ the\ full\ record\ of\ the\ Swimmers\ with\r\n\ \ \ \ \ \ the\ same\ finish\ time\r\n
+comment7.params=
+comment7.target=int\ getSmallestFinishTime()
+comment7.text=\r\n\ Returns\ the\ smallest\ finish\ time\ among\ the\ Swimmer\ items.\r\n\ \r\n\ \ \ \ \ \ @return\ the\ smallest\ finish\ time\ among\ the\ Swimmer\ items\r\n
+numComments=8
